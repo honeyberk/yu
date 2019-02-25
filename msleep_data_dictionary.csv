@@ -1,0 +1,14 @@
+msleep Data Dictionary,
+,
+column name,Description
+name,common name
+genus,taxonomic rank
+vore,"carnivore, omnivore or herbivore?"
+order,taxonomic rank
+conservation,the conservation status of the mammal
+sleep_total,"total amount of sleep, in hours"
+sleep_rem,"rem sleep, in hours"
+sleep_cycle,"length of sleep cycle, in hours"
+awake,"amount of time spent awake, in hours"
+brainwt,brain weight in kilograms
+bodywt,body weight in kilograms
